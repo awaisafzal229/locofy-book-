@@ -1,0 +1,359 @@
+.doctor-profile-photo {
+  position: absolute;
+  top: 41px;
+  left: 1px;
+  width: 390px;
+  height: 390px;
+  object-fit: cover;
+}
+.detail-section {
+  position: absolute;
+  top: 367px;
+  left: 1px;
+  border-radius: var(--br-26xl) var(--br-26xl) 0 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 436px;
+}
+.iphone-x-top-navbar-light {
+  position: absolute;
+  height: 5.21%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 94.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bio-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: var(--color-mediumslateblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 308px;
+  height: 113px;
+}
+.dr-ali-uzair {
+  position: absolute;
+  top: 14px;
+  left: 82px;
+  font-weight: 600;
+  text-shadow: 6px 7px 20px rgba(0, 0, 0, 0.25);
+}
+.senior-cardiologist-and {
+  position: absolute;
+  top: 52px;
+  left: 37px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.mirpur-medical-college {
+  position: absolute;
+  top: 77px;
+  left: 15px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+}
+.bio {
+  position: absolute;
+  top: 300px;
+  left: 46px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 308px;
+  height: 113px;
+  font-size: 24px;
+}
+.appointment1 {
+  position: absolute;
+  height: 18.8%;
+  width: 34.97%;
+  top: 0;
+  left: 4.91%;
+  font-weight: 600;
+  display: inline-block;
+}
+.appointment-child {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  border-radius: 24px;
+  background-color: var(--color-white);
+  box-shadow: 0 7px 4px rgba(0, 0, 0, 0.25);
+  width: 326px;
+  height: 87px;
+}
+.appointment-item {
+  position: absolute;
+  top: 38px;
+  left: 135px;
+  border-radius: var(--br-2xs);
+  background-color: #73d0ed;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 55px;
+  height: 67px;
+}
+.div,
+.sun {
+  position: absolute;
+  height: 18.8%;
+  font-weight: 600;
+  display: inline-block;
+}
+.sun {
+  width: 9.51%;
+  top: 36.75%;
+  left: 4.6%;
+  color: var(--color-darkslategray);
+}
+.div {
+  width: 4.91%;
+  top: 66.67%;
+  left: 7.06%;
+}
+.div1 {
+  left: 27.3%;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.mon,
+.thu,
+.tue,
+.wed {
+  position: absolute;
+  height: 18.8%;
+  width: 4.91%;
+  top: 66.67%;
+  font-weight: 600;
+  display: inline-block;
+}
+.div2 {
+  left: 48.16%;
+  color: var(--color-white);
+}
+.div3,
+.div4,
+.mon,
+.thu,
+.tue,
+.wed {
+  left: 70.55%;
+}
+.div4,
+.mon,
+.thu,
+.tue,
+.wed {
+  left: 90.18%;
+}
+.mon,
+.thu,
+.tue,
+.wed {
+  width: 12.27%;
+  top: 36.75%;
+  left: 23.62%;
+  color: var(--color-darkslategray);
+}
+.thu,
+.tue,
+.wed {
+  width: 9.51%;
+  left: 87.73%;
+}
+.tue,
+.wed {
+  width: 11.35%;
+  left: 67.18%;
+}
+.tue {
+  width: 9.51%;
+  left: 45.09%;
+  color: var(--color-white);
+}
+.appointment {
+  position: absolute;
+  height: 13.86%;
+  width: 83.59%;
+  top: 52.84%;
+  right: 8.21%;
+  bottom: 33.29%;
+  left: 8.21%;
+  color: var(--color-gray);
+}
+.am,
+.available-time1 {
+  position: absolute;
+  display: inline-block;
+}
+.available-time1 {
+  height: 29.33%;
+  width: 34.97%;
+  top: 0;
+  left: 4.6%;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: var(--color-gray);
+}
+.am {
+  height: 78.57%;
+  width: 82.43%;
+  top: 21.43%;
+  left: 16.22%;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 6px 7px 20px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 74px;
+  height: 28px;
+}
+.am-parent {
+  position: absolute;
+  height: 37.33%;
+  width: 22.7%;
+  top: 62.67%;
+  right: 0;
+  bottom: 0;
+  left: 77.3%;
+}
+.am1 {
+  height: 78.57%;
+  width: 84.81%;
+  top: 21.43%;
+  left: 15.19%;
+  display: inline-block;
+}
+.am-group,
+.am1,
+.am2 {
+  position: absolute;
+}
+.am-group {
+  height: 37.33%;
+  width: 24.23%;
+  top: 62.67%;
+  right: 23.93%;
+  bottom: 0;
+  left: 51.84%;
+}
+.am2 {
+  height: 78.57%;
+  width: 82.43%;
+  top: 21.43%;
+  left: 17.57%;
+  display: inline-block;
+}
+.am-container {
+  position: absolute;
+  height: 37.33%;
+  width: 22.7%;
+  top: 62.67%;
+  right: 50.92%;
+  bottom: 0;
+  left: 26.38%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: #edae73;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 74px;
+  height: 28px;
+}
+.am3 {
+  position: absolute;
+  height: 78.57%;
+  width: 82.43%;
+  top: 10.71%;
+  left: 8.11%;
+  font-weight: 600;
+  display: inline-block;
+}
+.available-time,
+.rectangle-parent {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  width: 74px;
+  height: 28px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.available-time {
+  height: 8.89%;
+  width: 83.59%;
+  top: 70.73%;
+  right: 8.21%;
+  bottom: 20.38%;
+  left: 8.21%;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+}
+.confirm-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: var(--color-mediumslateblue);
+  width: 298px;
+  height: 50px;
+}
+.confirm {
+  position: absolute;
+  width: 21.81%;
+  top: 26%;
+  left: 38.59%;
+  font-weight: 600;
+  display: inline-block;
+}
+.confirm-button,
+.icon {
+  position: absolute;
+  top: 692px;
+  left: 47px;
+  width: 298px;
+  height: 50px;
+}
+.icon {
+  height: 1.9%;
+  width: 2.05%;
+  top: 7.46%;
+  right: 93.59%;
+  bottom: 90.64%;
+  left: 4.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.book-child {
+  position: absolute;
+  top: 762px;
+  left: 1px;
+  width: 391px;
+  height: 81px;
+}
+.book {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
